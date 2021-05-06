@@ -1,1 +1,2 @@
 manual "hola mundo"
+este manual es para aprender a utilizar el sistema 

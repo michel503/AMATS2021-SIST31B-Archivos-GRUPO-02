@@ -7,6 +7,7 @@ echo '<!DOCTYPE html>
   </head>
   <body>
   <h1> BIENVENIDOS al restaurante xxx </h1>
+  <p> este es un restaurante italiano</p>
 
   </body>
 </html>';
